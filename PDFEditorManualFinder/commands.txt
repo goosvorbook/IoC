@@ -18,4 +18,3 @@ taskkill /IM msedge.exe
 taskkill /IM chrome.exe
 taskkill /IM brave.exe
 taskkill /IM firefox.exe
-  
