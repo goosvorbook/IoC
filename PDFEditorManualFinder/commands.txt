@@ -18,3 +18,4 @@ taskkill /IM msedge.exe
 taskkill /IM chrome.exe
 taskkill /IM brave.exe
 taskkill /IM firefox.exe
+msiexec /qn /i ManualFinder-v2.0.196.msi
